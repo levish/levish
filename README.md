@@ -7,8 +7,6 @@ Skills:
 * REST API
 * JUnit
 * MySQL
-* Swagger (Begginer)
-* Docker (Begginer)
 
 
 <div>
