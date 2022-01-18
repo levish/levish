@@ -1,12 +1,11 @@
 - Hi, my name is Levy. 
-- I’m now improve my skills studying and specializing in Sprint Boot Rest APIs. 
 
 Skills:
-* JAVA OOP
+* JAVA/Kotlin
 * Spring Boot
 * REST API
 * JUnit
-* MySQL
+* MySQL/PostgreSQL
 
 
 <div>
